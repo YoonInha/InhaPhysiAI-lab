@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "d21fd59894419bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6961019fcd7172ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979322ad9053a5bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee336f9324d12f1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80366a366660b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459874f16c7bfc1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "feefbddf304ebfe9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "3d653a396e6a16d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "1a0c46183f2e4bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c313acc79ce4156a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d518c56f181549e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00_Overview 의 백링크"
+            }
+          },
+          {
+            "id": "b0c7c0b9f1adf847",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "36df44ef7ff2b3f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "6f363c11bb5a3d6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "7dca0c3c6e11ae47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "c67d224718e4dcb8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0c4bc034d404dcce",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:변경사항 게재": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "979322ad9053a5bd",
+  "lastOpenFiles": [
+    "Firmware/Controller/ATmega128_Firmware.md",
+    "InhaPhysiAI-lab/Firmware/MotorDriver/무제.md",
+    "InhaPhysiAI-lab/Firmware/Controller/ATmega128_Firmware.md",
+    "InhaPhysiAI-lab/Firmware/MotorDriver",
+    "InhaPhysiAI-lab/Firmware/Firmware Projects.md",
+    "InhaPhysiAI-lab/Firmware/Controller",
+    "InhaPhysiAI-lab/Firmware",
+    "InhaPhysiAI-lab/Excalidraw",
+    "InhaPhysiAI-lab/무제.canvas",
+    "InhaPhysiAI-lab/Why_Feedback_Loops_Matter.md",
+    "InhaPhysiAI-lab/Unreal_Simulation.md",
+    "InhaPhysiAI-lab/ROS2_Communication.md",
+    "InhaPhysiAI-lab/Raspberry_Pi_5.md",
+    "InhaPhysiAI-lab/Physical_AI_Control_Loop.md",
+    "InhaPhysiAI-lab/Packet_Protocol.md",
+    "InhaPhysiAI-lab/00_Overview.md",
+    "InhaPhysiAI-lab",
+    "Excalidraw/Drawing 2025-05-14 16.02.47.excalidraw.md",
+    "Excalidraw",
+    "00_Overview.md",
+    "무제.canvas",
+    "무제.md",
+    "무제 1.canvas",
+    "이름 없는 보드.md",
+    "2025-05-14.md",
+    "Firmware/Firmware Projects.md",
+    "Firmware/MotorDriver/무제.md",
+    "Firmware/MotorDriver",
+    "Firmware/Controller",
+    "Packet_Protocol.md",
+    "ROS2_Communication.md",
+    "Raspberry_Pi_5.md",
+    "Physical_AI_Control_Loop.md",
+    "Why_Feedback_Loops_Matter.md",
+    "Unreal_Simulation.md",
+    "Firmware",
+    "환영합니다!.md",
+    "2025-05-03.md"
+  ]
+}

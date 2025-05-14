@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "d21fd59894419bb0",
+    "id": "680f868c89d8729f",
     "type": "split",
     "children": [
       {
-        "id": "f487d7b00126dc9e",
+        "id": "2d1aebc8d5b47501",
         "type": "tabs",
         "children": [
           {
-            "id": "88ef96fd101a4230",
+            "id": "38dc01808b86c56e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "00_Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Overview"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ee336f9324d12f1f",
+    "id": "26c5e9842f371adf",
     "type": "split",
     "children": [
       {
-        "id": "d80366a366660b92",
+        "id": "c4d7bdf327ab3c68",
         "type": "tabs",
         "children": [
           {
-            "id": "459874f16c7bfc1c",
+            "id": "42c22b5937fbfed9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "feefbddf304ebfe9",
+            "id": "b59ff0a09126b61e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "3d653a396e6a16d4",
+            "id": "00b1ee94656456ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "1a0c46183f2e4bea",
+    "id": "8678a0c38d648362",
     "type": "split",
     "children": [
       {
-        "id": "c313acc79ce4156a",
+        "id": "8d27288701a8648a",
         "type": "tabs",
         "children": [
           {
-            "id": "6d518c56f181549e",
+            "id": "b70c5d86190fe646",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "b0c7c0b9f1adf847",
+            "id": "ef2e550ff47ed80e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +120,7 @@
             }
           },
           {
-            "id": "36df44ef7ff2b3f7",
+            "id": "289ee7b38272ddd9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +135,7 @@
             }
           },
           {
-            "id": "6f363c11bb5a3d6d",
+            "id": "68d434a068e2de0c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -143,38 +147,50 @@
               "icon": "lucide-list",
               "title": "개요"
             }
+          },
+          {
+            "id": "d4c45cbd91f17fd2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1e1af1063342f36b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:변경사항 게재": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "88ef96fd101a4230",
-  "lastOpenFiles": [
-    "Firmware/ATmega128_Firmware.md",
-    "00_Overview.md",
-    "ROS2_Communication.md",
-    "Raspberry_Pi_5.md",
-    "Why_Feedback_Loops_Matter.md",
-    "Physical_AI_Control_Loop.md",
-    "Packet_Protocol.md",
-    "Unreal_Simulation.md",
-    "Firmware",
-    "무제.canvas",
-    "환영합니다!.md",
-    "2025-05-03.md",
-    "무제.md"
-  ]
+  "active": "38dc01808b86c56e",
+  "lastOpenFiles": []
 }
