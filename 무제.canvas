@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0c4cbe4763ec23df","type":"file","file":"Firmware/MotorDriver/무제.md","x":-600,"y":-320,"width":400,"height":400},
+		{"id":"0c4cbe4763ec23df","type":"file","file":"Firmware/MotorDriver/Stepping Motor.md","x":-600,"y":-320,"width":400,"height":400},
 		{"id":"7ce361b9437e90eb","type":"file","file":"Firmware/Controller/ATmega128_Firmware.md","x":-1040,"y":-320,"width":400,"height":400}
 	],
 	"edges":[]
