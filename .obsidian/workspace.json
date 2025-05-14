@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Overview.md",
+                "file": "Firmware/Controller/ATmega128_Firmware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Overview"
+              "title": "ATmega128_Firmware"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "38dc01808b86c56e",
   "lastOpenFiles": [
-    "Firmware/Controller/ATmega128_Firmware.md",
     "Firmware/MotorDriver/Stepping Motor.md",
+    "Firmware/Controller/ATmega128_Firmware.md",
     "00_Overview.md"
   ]
 }
