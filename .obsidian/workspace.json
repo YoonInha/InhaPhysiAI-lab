@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Overview.md",
+                "file": "Firmware/MotorDriver/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Overview"
+              "title": "무제"
             }
           }
         ]
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,5 +192,7 @@
     }
   },
   "active": "38dc01808b86c56e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "00_Overview.md"
+  ]
 }
