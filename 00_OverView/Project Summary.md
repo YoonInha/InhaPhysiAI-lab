@@ -12,7 +12,7 @@
 ![](images/01/2025-02-01-22-56-07.png)
 ## 마일 스톤
 	1. RnD
-	2. 제품1: 라인트레이서 로봇 암 (`LT-01`)
+	2. 제품1: 라인트레이서 로봇 암 (`NA-01`)
 	3. 제품2: 4족 보행 로봇 개 (`QD-01`)
 	4. 제품3: 간소화 휴머노이드 (`HM-01`)
 
@@ -31,6 +31,6 @@
 	* MicroControler (AVR)
 	* Linux (Raspberry pi)
 	* PC (Windows, Linux, Mac)
-* [[INavBot (NARM-01)]]
+* [[NeuroArm]]
 	* Architecture
 	* 
