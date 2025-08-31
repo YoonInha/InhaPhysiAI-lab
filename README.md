@@ -32,6 +32,27 @@
 	* MicroControler (AVR)
 	* Linux (Raspberry pi)
 	* PC (Windows, Linux, Mac)
+* [[SlothAMR]]
+	* Architecture
 * [[NeuroArm]]
 	* Architecture
 	* 
+
+
+## Project Repositories
+
+### SlothAMR
+* 개요 : ROS2의 turtlebot에 해당하는 기본적인 주행 로봇
+* github URL : https://github.com/YoonInha/SlothAMR
+
+
+### NeuroArm
+* 개요 : Yolo를 이용한 이미지 인식과 pytorch를 이용한 학습모델로 자율동작을 하는 로봇 팔 프로젝트
+	* NeuroArm-OPS : 제어 및 그래픽 UI, 학습데이터 수집, 디버깅하는 종합 앱 프로젝트
+	* NeuroArm-Core : yolo 이미지 처리 및 명령하는 AI 모델 제어부 (PC)
+	* NeuroArm-HW : 이미지를 모델로 전송하고 명령을 firmware로 전달하는 인터페이스
+* github URL
+	* NeuroArm-OPS : https://github.com/YoonInha/NeuroArm-OPS
+	* NeuroArm-Core : https://github.com/YoonInha/NeuroArm-Core
+	* NeuroArm-HW : https://github.com/YoonInha/NeuroArm-HW
+
